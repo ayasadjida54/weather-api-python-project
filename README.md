@@ -44,7 +44,7 @@ jupyter notebook weather_analysis.ipynb
 In the second cell, update:
 ```python
 API_KEY = 'your_key_here'
-CITY    = 'Algiers'   # change to any city
+CITY    = 'batna'   # change to any city
 ```
 
 ### 6. Run all cells
